@@ -1,12 +1,13 @@
 .body{
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(76, 161, 230);
-    background-image: url(f.jpg);
+    background-image: url(sign1.jpg);
     background-size: cover;
 }
 .input{
     margin-left: 43%;
     width: 15%;
+    height: auto;
     padding: 14px;
     border: blue;
     border-radius: 4px;
